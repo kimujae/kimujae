@@ -14,4 +14,4 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 
 # 🛠Tools
-<img src="https://img.shields.io/badge/Intellij-4374D9?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"><img src="https://img.shields.io/badge/PyCharm-4374D9?style=for-the-badge&logo=PyCharm&logoColor=white"><img src="https://img.shields.io/badge/Eclipse IDE-4374D9?style=for-the-badge&logo=Eclipse IDE&logoColor=white">
+<img src="https://img.shields.io/badge/Intellij-4374D9?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"> <img src="https://img.shields.io/badge/PyCharm-4374D9?style=for-the-badge&logo=PyCharm&logoColor=white"> <img src="https://img.shields.io/badge/Eclipse IDE-4374D9?style=for-the-badge&logo=Eclipse IDE&logoColor=white">
