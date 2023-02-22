@@ -4,10 +4,12 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimujae&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dnwo0103)](https://solved.ac/dnwo0103/)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimujae&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 # 💪Skills
 ### Platforms & Languages
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimujae&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
