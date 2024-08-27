@@ -3,4 +3,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%20UJae%20World&fontSize=50&fontColor=000000&animation=twinkling)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimujae&show_icons=true&theme=transparent&include_all_commits=True)
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dnwo0103)](https://solved.ac/dnwo0103/)
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dnwo0103)]
